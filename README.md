@@ -1,8 +1,3 @@
-Below is a **production-ready `README.md`** you can directly push to GitHub.
-I’ve written it as a senior developer would: clear overview, setup steps, environment configuration, and explicit instructions for **Ollama** and **Gemini API key**.
-
----
-
 # Company Brochure Generator (AI-Powered)
 
 An **AI-powered company sales brochure generator** that scrapes website content and generates professional marketing brochures using **LLMs** such as **Google Gemini** and **Ollama (local models)**.
