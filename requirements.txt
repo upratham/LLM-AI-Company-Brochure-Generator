@@ -1,0 +1,14 @@
+python-dotenv
+ipykernel
+ipywidgets
+requests
+numpy
+pandas
+openai
+gradio
+google-generativeai
+anthropic
+beautifulsoup4
+ollama
+chromadb
+

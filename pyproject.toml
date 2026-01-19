@@ -1,0 +1,26 @@
+[project]
+name = "Company-Broucher-Generator"
+version = "0.0.1"
+description = "AI capabale sales broucher generator for comapany"
+authors = [{name = "Prathamesh Uravane", email = "upratham2002@gmail.com"}]
+requires-python = "==3.11.*"
+dependencies = [
+    "anthropic>=0.76.0",
+    "beautifulsoup4>=4.14.3",
+    "chromadb>=1.4.1",
+    "google-generativeai>=0.8.6",
+    "gradio>=6.3.0",
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+    "numpy>=2.4.1",
+    "ollama>=0.6.1",
+    "openai>=2.15.0",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+]
+[tool.setuptools]
+packages = {find = {}}
+
+[tool.setuptools.dynamic]
+dependencies = {file = "requirements.txt"}
