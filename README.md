@@ -1,6 +1,6 @@
 # Company Brochure Generator (AI-Powered)
 
-An **AI-powered company sales brochure generator** that scrapes website content and generates professional marketing brochures using **LLMs** such as **Google Gemini** and **Ollama (local models)**.
+An **AI-powered company sales brochure generator** that scrapes website content and generates professional marketing brochures using **LLMs** such as **Google Gemini** , **Ollama (local models)** an optional **Gradio chat UI**.
 
 This project is designed to:
 
